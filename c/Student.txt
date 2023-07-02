@@ -1,0 +1,8 @@
+Name of the student : RIYA
+Register No. of the student : 1234
+Mark of the student subject 1 : 90
+Mark of the student subject 2 : 80
+Mark of the student subject 3 : 87
+Mark of the student subject 4 : 67
+Mark of the student subject 5 : 57
+Average marks of the student : 76.20

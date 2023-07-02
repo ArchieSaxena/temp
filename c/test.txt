@@ -1,0 +1,6 @@
+
+Name: ARCHIE 
+Marks=100 
+
+Name: DRISHTI 
+Marks=50 
